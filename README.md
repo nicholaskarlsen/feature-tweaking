@@ -7,11 +7,10 @@ https://arxiv.org/abs/1706.06691
 
 
 # Setup
-The package may be installed by cloning this repo and running
+The package may be installed by
 ```
-pip installl .
+pip installl git+https://github.com/nicholaskarlsen/feature-tweaking
 ```
-in the root directory
 
 
 # Usage 
